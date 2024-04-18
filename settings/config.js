@@ -9,7 +9,7 @@ const defaultSettings = {
 const embedSettings = {
   color: Colors.Blurple,
   wrongcolor: Colors.Red,
-  footertext: "By Kabir Jaipal | Fire Bird",
+  footertext: "By Szaby",
 };
 
 const emojiSettings = {
@@ -83,10 +83,10 @@ const filters = {
 };
 
 const links = {
-  inviteURL: `https://discord.com/api/oauth2/authorize?client_id=BOTID&permissions=6508997968&scope=bot%20applications.commands`,
-  DiscordServer: `https://discord.gg/FuKfAREn9f`,
-  VoteURL: `https://discord.gg/FuKfAREn9f`,
-  Website: `https://jugnu.netlify.app/`,
+  inviteURL: `https://discord.com/api/oauth2/authorize?client_id=1125024940173819946&permissions=6508997968&scope=bot%20applications.commands`,
+  DiscordServer: `https://discord.com/invite/RwsFau5YSu`,
+  VoteURL: `https://discord.com/invite/RwsFau5YSu`,
+  Website: `https://linktr.ee/sz4by`,
 };
 
 const options = {
@@ -112,7 +112,7 @@ const numberEmojis = [
 
 const slashSettings = {
   global: false,
-  guildIDS: ["903532162236694539"], // for slash command
+  guildIDS: ["1095731086513930260"], // for slash command
 };
 
 module.exports = {
